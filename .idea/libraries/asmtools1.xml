@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="asmtools1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JavaBase/out/production/JavaBase/asmtools-7.0/lib/asmtools.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

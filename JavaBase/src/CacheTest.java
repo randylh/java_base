@@ -3,5 +3,6 @@ public class CacheTest {
         int a = 0;
         int i = 0;
         a = ++i;
+        System.out.println(a);
     }
 }
